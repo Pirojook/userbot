@@ -1,2 +1,2 @@
-api_id = "1892193"
-api_hash = "0592265a161cb8853d1f6f919c7247d7"
+api_id = "YOUR ID"
+api_hash = "YOUR HASH"
